@@ -1,0 +1,21 @@
+gas012
+下記をgoogle apps scrriptにして
+curl -X 'POST' \
+  'https://kenken999-gradio-fastapi-statics-a.hf.space/process/webhook?messages=test' \
+  -H 'accept: application/json' \
+  -d ''gas012
+下記をgoogle apps scrriptにして
+curl -X 'POST' \
+  'https://kenken999-gradio-fastapi-statics-a.hf.space/process/webhook?messages=test' \
+  -H 'accept: application/json' \
+  -d ''gas012
+下記をgoogle apps scrriptにして
+curl -X 'POST' \
+  'https://kenken999-gradio-fastapi-statics-a.hf.space/process/webhook?messages=test' \
+  -H 'accept: application/json' \
+  -d ''gas012
+下記をgoogle apps scrriptにして
+curl -X 'POST' \
+  'https://kenken999-gradio-fastapi-statics-a.hf.space/process/webhook?messages=test' \
+  -H 'accept: application/json' \
+  -d ''
